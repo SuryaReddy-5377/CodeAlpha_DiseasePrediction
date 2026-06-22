@@ -26,4 +26,4 @@ Heart Disease Dataset from UCI ML Repository
 - Patient risk prediction
 
 ## 🔗 Author
-[Your Name]
+[Surya Manohar Reddy Goluguri]
